@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	char ss[1001], tt[1001];
+	char ss[101], tt[101];
 	int f, len;
 	scanf("%s %s", ss, tt);
 	string s = ss;
